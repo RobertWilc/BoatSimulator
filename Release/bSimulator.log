@@ -1,0 +1,10 @@
+﻿  bSimulator.cpp
+  simu.cpp
+C:\Users\robby\source\repos\bSimulator\bSimulator\simu.cpp(211,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Generating code
+C:\Users\robby\source\repos\bSimulator\bSimulator\simu.cpp(184): warning C4715: 'simu::brains': not all control paths return a value
+  2 of 250 functions ( 0.8%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  bSimulator.vcxproj -> C:\Users\robby\source\repos\bSimulator\Release\bSimulator.exe
